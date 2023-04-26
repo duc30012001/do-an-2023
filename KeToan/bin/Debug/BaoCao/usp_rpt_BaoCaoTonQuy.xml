@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>BÁO CÁO TỒN QUỸ</RptTitle>
+    <TenTK>1121 - Tiền Việt Nam</TenTK>
+    <DenNgay>2018-12-01T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <MaTK>1121</MaTK>
+    <TenTK>Tiền Việt Nam</TenTK>
+    <SoTienNT>0.00</SoTienNT>
+    <SoTien>3000000</SoTien>
+  </Table1>
+</NewDataSet>

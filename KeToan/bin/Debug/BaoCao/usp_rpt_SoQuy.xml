@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>SỔ QUỸ TIỀN GỬI</RptTitle>
+    <TenTK>112 - Tiền gửi ngân hàng</TenTK>
+    <TuNgay>2018-12-01T00:00:00+07:00</TuNgay>
+    <DenNgay>2018-12-31T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <SoPT />
+    <SoPC />
+    <NoiDung>Số dư đầu kỳ</NoiDung>
+    <TienThu>3000000</TienThu>
+    <TienChi>0</TienChi>
+    <TienTon>3000000</TienTon>
+    <GhiChu />
+    <MaCT />
+    <SX>0</SX>
+  </Table1>
+  <Table1>
+    <NgayCT>2018-12-29T18:40:20.76+07:00</NgayCT>
+    <SoPT />
+    <SoPC />
+    <NoiDung>Hạch toán khác</NoiDung>
+    <TienThu>0</TienThu>
+    <TienChi>266640000</TienChi>
+    <TienTon>-263640000</TienTon>
+    <GhiChu>Hạch toán khác</GhiChu>
+    <MaCT>KT</MaCT>
+    <SX>1</SX>
+  </Table1>
+  <Table1>
+    <SoPT />
+    <SoPC />
+    <NoiDung>Số dư cuối kỳ</NoiDung>
+    <TienThu>0</TienThu>
+    <TienChi>0</TienChi>
+    <TienTon>-263640000</TienTon>
+    <GhiChu />
+    <MaCT />
+    <SX>2</SX>
+  </Table1>
+</NewDataSet>

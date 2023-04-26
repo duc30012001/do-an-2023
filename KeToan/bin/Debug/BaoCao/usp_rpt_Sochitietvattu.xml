@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>Sổ chi tiết vật tư</RptTitle>
+    <TuNgay>2019-01-01T00:00:00+07:00</TuNgay>
+    <DenNgay>2019-12-31T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <SoCT />
+    <NoiDung>Tồn đầu kỳ</NoiDung>
+    <tkdu />
+    <DonGia>851475</DonGia>
+    <SoLuongn>0.00</SoLuongn>
+    <ttn>0</ttn>
+    <SoLuongx>0.00</SoLuongx>
+    <ttx>0</ttx>
+    <SoLuongt>61.00</SoLuongt>
+    <ttt>51940000</ttt>
+    <sx>0</sx>
+  </Table1>
+  <Table1>
+    <SoCT />
+    <NoiDung>Tổng cộng</NoiDung>
+    <tkdu />
+    <DonGia>0</DonGia>
+    <SoLuongn>0.00</SoLuongn>
+    <ttn>0</ttn>
+    <SoLuongx>0.00</SoLuongx>
+    <ttx>0</ttx>
+    <SoLuongt>61.00</SoLuongt>
+    <ttt>51940000</ttt>
+    <sx>2</sx>
+  </Table1>
+</NewDataSet>

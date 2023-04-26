@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <MaCT>BC</MaCT>
+    <SoCT>BC001</SoCT>
+    <NgayCT>2019-01-02T18:20:23.82+07:00</NgayCT>
+    <LyDo>2222</LyDo>
+    <MaDT>KH001</MaDT>
+    <NguoiGD>222</NguoiGD>
+    <TenDT>CTY CP VICPRO Việt Nam</TenDT>
+    <DiaChi>Hà Nội</DiaChi>
+    <DienThoai>21312</DienThoai>
+    <TKNo>1121</TKNo>
+    <TKCo>1311</TKCo>
+    <SoTien>2000000</SoTien>
+    <SoTienNT>2000000.00</SoTienNT>
+    <SoTienText>Hai triệu</SoTienText>
+    <SoTienNTText>Hai triệu</SoTienNTText>
+  </Table>
+  <Table1>
+    <SoCT>BC001</SoCT>
+    <NoiDung>Thu TG</NoiDung>
+    <TKNo>1121</TKNo>
+    <TKCo>1311</TKCo>
+    <SoTien>2000000</SoTien>
+  </Table1>
+</NewDataSet>

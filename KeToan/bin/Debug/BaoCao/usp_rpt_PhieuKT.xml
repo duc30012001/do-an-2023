@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <MaCT>KT</MaCT>
+    <SoCT>KT086</SoCT>
+    <NgayCT>2019-03-08T18:40:20.76+07:00</NgayCT>
+    <LyDo />
+    <MaDT>CC002</MaDT>
+    <NguoiGD />
+    <TenDT>Công Ty Cổ Phần Kemic</TenDT>
+    <DiaChi>Số 4 phố Nguyễn Xiển, Phường Thanh Xuân Nam, Quận Thanh Xuân, Thành phố Hà Nội</DiaChi>
+    <DienThoai>0988898462</DienThoai>
+    <TKNo>331</TKNo>
+    <TKCo>112</TKCo>
+    <SoTien>11445000</SoTien>
+    <SoTienNT>11445000</SoTienNT>
+    <SoTienText>Mười một triệu bốn trăm bốn mươi lăm nghìn</SoTienText>
+    <SoTienNTText>Mười một triệu bốn trăm bốn mươi lăm nghìn</SoTienNTText>
+  </Table>
+  <Table1>
+    <Id>50</Id>
+    <SoCT>KT086</SoCT>
+    <TKNo>331</TKNo>
+    <TKCo>112</TKCo>
+    <NoiDung>Hạch toán khác</NoiDung>
+    <SoTien>11445000</SoTien>
+  </Table1>
+</NewDataSet>

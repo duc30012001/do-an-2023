@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <MaCT>PX</MaCT>
+    <SoCT>PX004</SoCT>
+    <NgayCT>2022-03-23T20:34:46.413+07:00</NgayCT>
+    <LyDo>Xuất để sửa chữa</LyDo>
+    <NguoiGD />
+    <TenKho>Kho VT</TenKho>
+    <TenNCC>Máy tính để bàn Asus S500MC i3 10105 (31010547W)</TenNCC>
+    <DiaChi />
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoTien>9317000</SoTien>
+    <SoTienText />
+  </Table>
+  <Table1>
+    <Id>219</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT001</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>0</DonGia>
+    <ThanhTien>0</ThanhTien>
+    <TenVT>Thùng máy/ Case Golden Field X10</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>220</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT004</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>180000</DonGia>
+    <ThanhTien>180000</ThanhTien>
+    <TenVT>Ổ cứng SSD Samsung 870 EVO 250GB</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>221</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT005</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>81000</DonGia>
+    <ThanhTien>81000</ThanhTien>
+    <TenVT>Bộ nhớ/ Ram DDR4 Kingston HyperX Fury</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>222</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT011</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>251000</DonGia>
+    <ThanhTien>251000</ThanhTien>
+    <TenVT>Màn hình LCD MSI 24" MP242 (1920x1080)</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>223</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT012</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>450000</DonGia>
+    <ThanhTien>450000</ThanhTien>
+    <TenVT>Màn hình Samsung LC24F390FHEXXV</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>224</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT013</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>355000</DonGia>
+    <ThanhTien>355000</ThanhTien>
+    <TenVT>Nguồn/ Power Golden Field Dragon 400W </TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>225</Id>
+    <SoCT>PX004</SoCT>
+    <MaVT>VT017</MaVT>
+    <TKNo>621</TKNo>
+    <TKCo>152</TKCo>
+    <SoLuong>1.00</SoLuong>
+    <DonGia>8000000</DonGia>
+    <ThanhTien>8000000</ThanhTien>
+    <TenVT>Chuột máy tính Logitech G203</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+</NewDataSet>

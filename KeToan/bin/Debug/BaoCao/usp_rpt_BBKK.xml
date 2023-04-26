@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <MaCT>KK</MaCT>
+    <SoCT>KK180</SoCT>
+    <NgayCT>2019-03-29T12:46:48.133+07:00</NgayCT>
+    <NoiDung>Kiểm kê cuối tháng 3</NoiDung>
+    <NguoiKK1>Phạm Khắc Sơn</NguoiKK1>
+    <NguoiKK2>Nguyễn Khánh Vy</NguoiKK2>
+    <NguoiKK3>Nguyễn Bình Minh</NguoiKK3>
+  </Table>
+  <Table1>
+    <SoCT>KK180</SoCT>
+    <LyDo>Phân xưởng sản xuất thừa trả lại</LyDo>
+    <MaVT>VT016</MaVT>
+    <TenVT>Mực ánh tím</TenVT>
+    <SoLuongKiemKe>835</SoLuongKiemKe>
+    <SoLuongSoSach>824</SoLuongSoSach>
+    <SoLuongThua>11</SoLuongThua>
+    <SoLuongThieu>0</SoLuongThieu>
+  </Table1>
+  <Table1>
+    <SoCT>KK180</SoCT>
+    <LyDo>chưa rõ nguyên nhân</LyDo>
+    <MaVT>VT010</MaVT>
+    <TenVT>Giấy tráng kim Mpet</TenVT>
+    <SoLuongKiemKe>109</SoLuongKiemKe>
+    <SoLuongSoSach>110</SoLuongSoSach>
+    <SoLuongThua>0</SoLuongThua>
+    <SoLuongThieu>0</SoLuongThieu>
+  </Table1>
+  <Table1>
+    <SoCT>KK180</SoCT>
+    <LyDo>trả NCC hàng lỗi</LyDo>
+    <MaVT>VT002</MaVT>
+    <TenVT>Giấy Kraft</TenVT>
+    <SoLuongKiemKe>190</SoLuongKiemKe>
+    <SoLuongSoSach>200</SoLuongSoSach>
+    <SoLuongThua>0</SoLuongThua>
+    <SoLuongThieu>0</SoLuongThieu>
+  </Table1>
+</NewDataSet>

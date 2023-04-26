@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>SỔ CÁI TÀI KHOẢN</RptTitle>
+    <TenTK>152 - Nguyên liệu, vật liệu</TenTK>
+    <TuNgay>2019-01-01T00:00:00+07:00</TuNgay>
+    <DenNgay>2019-12-31T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <SoCT />
+    <NoiDung>Số dư đầu kỳ</NoiDung>
+    <TKDU />
+    <TienNo>72460000</TienNo>
+    <TienCo>0</TienCo>
+    <TienTon>0</TienTon>
+    <MaCT />
+    <SX>0</SX>
+  </Table1>
+  <Table1>
+    <SoCT />
+    <NoiDung>Tổng Phát Sinh</NoiDung>
+    <TKDU />
+    <TienTon>0</TienTon>
+    <MaCT />
+    <SX>2</SX>
+  </Table1>
+  <Table1>
+    <SoCT />
+    <NoiDung>Số dư cuối kỳ</NoiDung>
+    <TKDU />
+    <TienNo>0</TienNo>
+    <TienCo>0</TienCo>
+    <TienTon>0</TienTon>
+    <MaCT />
+    <SX>3</SX>
+  </Table1>
+</NewDataSet>

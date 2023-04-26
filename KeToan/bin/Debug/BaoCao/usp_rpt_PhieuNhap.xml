@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <MaCT>PN</MaCT>
+    <SoCT>PN004</SoCT>
+    <NgayCT>2022-03-29T21:00:49.493+07:00</NgayCT>
+    <LyDo>Nhập kho mua NCC</LyDo>
+    <MaNCC>NCC001</MaNCC>
+    <NguoiGD />
+    <TenNCC>Công ty TNHH Công Nghệ Thanh Long</TenNCC>
+    <DiaChi>Số 172 Đường Pháp Vân, P.Yên Sở, Quận Hoàng Mai, TP Hà Nội</DiaChi>
+    <DienThoai>0906471968</DienThoai>
+    <TenKho>Kho VT</TenKho>
+    <TKNo>152</TKNo>
+    <TKCo>331</TKCo>
+    <SoTien>9850000</SoTien>
+    <SoTienText />
+  </Table>
+  <Table1>
+    <Id>185</Id>
+    <SoCT>PN004</SoCT>
+    <MaVT>VT011</MaVT>
+    <TKNo>152</TKNo>
+    <TKCo>331</TKCo>
+    <SoLuong>2.00</SoLuong>
+    <DonGia>2510000</DonGia>
+    <ThanhTien>5020000</ThanhTien>
+    <TenVT>Màn hình LCD MSI 24" MP242 (1920x1080)</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>186</Id>
+    <SoCT>PN004</SoCT>
+    <MaVT>VT004</MaVT>
+    <TKNo>152</TKNo>
+    <TKCo>331</TKCo>
+    <SoLuong>3.00</SoLuong>
+    <DonGia>800000</DonGia>
+    <ThanhTien>2400000</ThanhTien>
+    <TenVT>Ổ cứng SSD Samsung 870 EVO 250GB</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+  <Table1>
+    <Id>187</Id>
+    <SoCT>PN004</SoCT>
+    <MaVT>VT005</MaVT>
+    <TKNo>152</TKNo>
+    <TKCo>331</TKCo>
+    <SoLuong>3.00</SoLuong>
+    <DonGia>810000</DonGia>
+    <ThanhTien>2430000</ThanhTien>
+    <TenVT>Bộ nhớ/ Ram DDR4 Kingston HyperX Fury</TenVT>
+    <DVT>Cái</DVT>
+  </Table1>
+</NewDataSet>

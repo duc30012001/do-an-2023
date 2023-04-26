@@ -1,0 +1,302 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>BÁO CÁO TỔNG HỢP NHẬT XUẤT TỒN</RptTitle>
+    <TuNgay>2019-01-01T00:00:00+07:00</TuNgay>
+    <DenNgay>2019-12-31T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <MaVT>VT001</MaVT>
+    <tenvt>Thùng máy/ Case Golden Field X10</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>0</SoLuongd>
+    <ttd>0</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>0</SoLuongc>
+    <ttc>0</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT002</MaVT>
+    <tenvt>Thùng máy/ Case JETEK EM4</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>630000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>630000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT003</MaVT>
+    <tenvt>Ổ cứng SSD Kingston A400 240GB M.2 2280</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>801000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>801000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT004</MaVT>
+    <tenvt>Ổ cứng SSD Samsung 870 EVO 250GB</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>2</SoLuongd>
+    <ttd>360000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>2</SoLuongc>
+    <ttc>360000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT005</MaVT>
+    <tenvt>Bộ nhớ/ Ram DDR4 Kingston HyperX Fury</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>243000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>243000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT006</MaVT>
+    <tenvt>Bộ nhớ/ Ram Kingston 8GB DDR4 2666Mhz</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>450000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>450000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT007</MaVT>
+    <tenvt>Bộ vi xử lý/ CPU Intel Comet Lake Core i3-10100</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>2160000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>2160000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT008</MaVT>
+    <tenvt>Bộ vi xử lý/ CPU Intel Core i7-12700K</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>2</SoLuongd>
+    <ttd>3600000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>2</SoLuongc>
+    <ttc>3600000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT009</MaVT>
+    <tenvt>Bo mạch chính/ Mainboard MSI H410M PRO</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>2</SoLuongd>
+    <ttd>3790000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>2</SoLuongc>
+    <ttc>3790000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT010</MaVT>
+    <tenvt>Bo mạch chính/ Mainboard ASUS K53E</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>3</SoLuongd>
+    <ttd>5400000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>3</SoLuongc>
+    <ttc>5400000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT011</MaVT>
+    <tenvt>Màn hình LCD MSI 24" MP242 (1920x1080)</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>1</SoLuongd>
+    <ttd>251000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>1</SoLuongc>
+    <ttc>251000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT012</MaVT>
+    <tenvt>Màn hình Samsung LC24F390FHEXXV</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>2</SoLuongd>
+    <ttd>900000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>2</SoLuongc>
+    <ttc>900000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT013</MaVT>
+    <tenvt>Nguồn/ Power Golden Field Dragon 400W </tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>10</SoLuongd>
+    <ttd>3550000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>10</SoLuongc>
+    <ttc>3550000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT014</MaVT>
+    <tenvt>Nguồn/ Power MSI MAG A550W-80 Plus</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>4</SoLuongd>
+    <ttd>600000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>4</SoLuongc>
+    <ttc>600000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT015</MaVT>
+    <tenvt>Bàn phím máy tính Dare-U LK185</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>7</SoLuongd>
+    <ttd>20580000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>7</SoLuongc>
+    <ttc>20580000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT016</MaVT>
+    <tenvt>Bàn phím máy tính Fuhlen L411 USB</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>10</SoLuongd>
+    <ttd>425000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>10</SoLuongc>
+    <ttc>425000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT017</MaVT>
+    <tenvt>Chuột máy tính Logitech G203</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>1</SoLuongd>
+    <ttd>8000000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>1</SoLuongc>
+    <ttc>8000000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT018</MaVT>
+    <tenvt>Chuột máy tính Fuhlen L102</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>0</SoLuongd>
+    <ttd>0</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>0</SoLuongc>
+    <ttc>0</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT019</MaVT>
+    <tenvt>Tai nghe máy tính DareU EH416 RGB</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>2</SoLuongd>
+    <ttd>200000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>2</SoLuongc>
+    <ttc>200000</ttc>
+  </Table1>
+  <Table1>
+    <MaVT>VT020</MaVT>
+    <tenvt>Tai nghe máy tính Rapoo H100</tenvt>
+    <dvt>Cái</dvt>
+    <tenkho>K001 - Kho VT</tenkho>
+    <SoLuongd>0</SoLuongd>
+    <ttd>0</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>0</SoLuongc>
+    <ttc>0</ttc>
+  </Table1>
+  <Table1>
+    <MaVT />
+    <tenvt />
+    <dvt />
+    <tenkho>Tổng cộng</tenkho>
+    <SoLuongd>61</SoLuongd>
+    <ttd>51940000</ttd>
+    <SoLuongt>0</SoLuongt>
+    <ttt>0</ttt>
+    <SoLuongg>0</SoLuongg>
+    <ttg>0</ttg>
+    <SoLuongc>61</SoLuongc>
+    <ttc>51940000</ttc>
+  </Table1>
+</NewDataSet>

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <RptTitle>SỔ NHẬT KÍ CHUNG</RptTitle>
+    <TuNgay>2022-01-01T00:00:00+07:00</TuNgay>
+    <DenNgay>2022-05-31T00:00:00+07:00</DenNgay>
+  </Table>
+  <Table1>
+    <SoCT />
+    <NoiDung>Tổng cộng</NoiDung>
+    <TKNo />
+    <TKCo />
+    <MaCT />
+    <SX>1</SX>
+  </Table1>
+</NewDataSet>
